@@ -13,6 +13,9 @@ This project focuses on customer segmentation using unsupervised machine learnin
 5. Profile the resulting customer segments based on their characteristics.
 
 ## Methodology
+###Data Collection
+
+The dataset used for this project was sourced from Kaggle, specifically the "Customer Segmentation Data for Marketing Analysis." It contains various features such as customer demographics, purchasing history, and other relevant data.
 
 ### Data Preparation
 
